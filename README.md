@@ -5,9 +5,9 @@
 
   <br>
 
-    <a href="https://github.com/sangjung0/safe-zone/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=sangjung0/safe-zone" />
-    </a>
+  <a href="https://github.com/sangjung0/safe-zone/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=sangjung0/safe-zone" />
+  </a>
 
   <br>
   <br>
