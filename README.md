@@ -1,3 +1,5 @@
+[![build and run test](https://github.com/sangjung0/safe-zone/actions/workflows/build_and_run_test.yml/badge.svg?branch=main)](https://github.com/sangjung0/safe-zone/actions/workflows/build_and_run_test.yml)
+
 <div align="center">
   <h1> safe-zone </h1>
 
